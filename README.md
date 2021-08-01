@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Maryam Noor
-- 👀 I’m interested in 
-- 🌱 I’m currently learning MERN stack :yum:
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m Maryam Noor 👋
+- 17 years old front-end developer doing hard to become a strong technical software engineer. :fire:
+- I’m currently learning MERN stack :yum:
+- Portfolio: http://dev_maryam2004.surge.sh/
+- :email: noormaryam530@gmail.com
 
 <!---
 Maryam-bit/Maryam-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
