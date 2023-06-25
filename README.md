@@ -9,8 +9,6 @@ If you're interested in learning more about my work, check out my portfolio at [
 <img src="https://github-readme-stats.vercel.app/api?username=maryam-bit&theme=transparent" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bit&layout=compact&theme=transparent&hide_progress=true" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryam-bit&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bit&layout=compact&theme=transparent&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Let's connect and explore new opportunities to leverage my skills and experience!
 * [Email](noormaryam530@gmail.com)
