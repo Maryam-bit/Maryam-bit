@@ -4,7 +4,7 @@ Hello there, I am a full stack Engineer @[Cowlar Design Studio](https://cowlarde
 
 If you're interested in learning more about my work, check out my portfolio at [`https://maryambit.surge.sh`](https://maryambit.surge.sh). There, you'll find a curated selection of my personal projects and some of my ideas and thoughts on various topics.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=modern-lilac)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=modern-lilac)](https://git.io/streak-stats)
 
 
 Let's connect and explore new opportunities to leverage my skills and experience!
