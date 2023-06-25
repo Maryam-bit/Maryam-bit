@@ -8,7 +8,7 @@
 
  <hr />
 
-##  Tools
+##  Tools & Technologies
 #### Languages: 
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -94,14 +94,6 @@
 </p>
 
  <hr />
-
-## Statistics  <br/>
-<p align="left"><img align="center" src="https://streak-stats.demolab.com/?user=maryam-bit&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=github-dark-blue" /></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=maryam-bit&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bit&layout=compact&theme=github_dark" />
-
-<br/>
 
 ![separate](https://github.com/Maryam-bit/Maryam-bit/assets/56764144/c2fdcdf3-cc3a-432d-96e0-603cca9ab4d3)
 
