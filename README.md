@@ -1,4 +1,9 @@
-![](https://komarev.com/ghpvc/?username=your-github-maryam-bit) <br />
+
+<img width="1834"  alt="Make your README" src="https://github.com/Maryam-bit/Maryam-bit/assets/56764144/dc2fb436-7dde-436e-94c7-2844db367318">
+
+ <br/>  <br/> 
+ 
+![Visits](https://komarev.com/ghpvc/?username=your-github-maryam-bit)
 <a href="https://www.linkedin.com/in/maryam-noor-/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Maryam%20Noor-blue?logo=linkedin&logoColor=blue&color=blue" />
 </a>
@@ -6,13 +11,21 @@
   <img src="https://img.shields.io/badge/Gmail-Maryam%20Noor-red?logo=gmail&logoColor=red&color=red" />
 </a>
 
-👋 Hello there!
+ Hello there 👋
 -  I am a Full Stack Engineer @[Cowlar Design Studio](https://cowlardesignstudio.com/)
 -  Currently exploring DevOps
 -  Interested in learning web 3.0
--  On my free time, I like to write at [`maryambit.surge.sh`](https://maryambit.surge.sh) and building some side projects.
+<br/>
 
- <hr />
+If you're interested in learning more about my work, check out my portfolio at [`maryambit.surge.sh`](https://maryambit.surge.sh). There, you'll find a curated selection of my personal projects and some of my ideas and thoughts on various topics.
+
+ ## 🗒️ Latest Blog Posts
+ - [The impact of database indexing on query execution time](https://maryambit.surge.sh/blogs/the-impact-of-database-indexing-on-query-execution-time)
+ - [Build a realtime analytics pipeline for you IoT application using InfluxDB and MQTT](https://maryambit.surge.sh/blogs/build-a-realtime-analytics-pipeline-for-your-iot-application-using-influx-and-mqtt)
+ - [Why Should I Choose NestJS and Prisma for my Next Project?](https://maryambit.surge.sh/blogs/why-should-i-choose-nestjs-and-prisma-for-my-next-project)
+ - [https://maryambit.surge.sh/blogs/unlocking-the-features-of-typescript-5](https://maryambit.surge.sh/blogs/unlocking-the-features-of-typescript-5)
+
+
 
 ##  Tools & Technologies
 #### Languages: 
