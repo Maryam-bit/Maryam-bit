@@ -1,4 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-maryam-bit)
+<a href="https://www.linkedin.com/in/maryam-noor-/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Maryam%20Noor-blue?logo=linkedin&logoColor=blue&color=blue" />
+</a>
+<a href="mailto:noormaryam530@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-Maryam%20Noor-red?logo=gmail&logoColor=red&color=red" />
+</a>
 
 👋 Hello there!
 -  I am a Full Stack Engineer @[Cowlar Design Studio](https://cowlardesignstudio.com/)
@@ -93,13 +99,6 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
- <hr />
 
-![separate](https://github.com/Maryam-bit/Maryam-bit/assets/56764144/c2fdcdf3-cc3a-432d-96e0-603cca9ab4d3)
 
-<a href="https://www.linkedin.com/in/maryam-noor-/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Maryam%20Noor-blue?logo=linkedin&logoColor=blue&color=blue" />
-</a>
-<a href="mailto:noormaryam530@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-Maryam%20Noor-red?logo=gmail&logoColor=red&color=red" />
-</a>
+
