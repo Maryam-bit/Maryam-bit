@@ -1,16 +1,19 @@
-
+<!-------------------- Banner Image ----------------------->
 <img width="1834"  alt="Make your README" src="https://github.com/Maryam-bit/Maryam-bit/assets/56764144/dc2fb436-7dde-436e-94c7-2844db367318">
+<br/>
 
- <br/>  <br/> 
- 
-![Visits](https://komarev.com/ghpvc/?username=your-github-maryam-bit)
-<a href="https://www.linkedin.com/in/maryam-noor-/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Maryam%20Noor-blue?logo=linkedin&logoColor=blue&color=blue" />
-</a>
-<a href="mailto:noormaryam530@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-Maryam%20Noor-red?logo=gmail&logoColor=red&color=red" />
-</a>
+<!-------------------- Contact Badges ----------------------->
+<div>
+ <img src="https://komarev.com/ghpvc/?username=your-github-maryam-bit" />
+ <a href="https://www.linkedin.com/in/maryam-noor-/" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/LinkedIn-Maryam%20Noor-blue?logo=linkedin&logoColor=blue&color=blue" />
+ </a>
+ <a href="mailto:noormaryam530@gmail.com" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/Gmail-Maryam%20Noor-red?logo=gmail&logoColor=red&color=red" />
+ </a>
+</div>
 
+<!-------------------- introduction ----------------------->
  Hello there 👋
 -  I am a Full Stack Engineer @[Cowlar Design Studio](https://cowlardesignstudio.com/)
 -  Currently exploring DevOps
@@ -19,6 +22,7 @@
 
 If you're interested in learning more about my work, check out my portfolio at [`maryambit.surge.sh`](https://maryambit.surge.sh). There, you'll find a curated selection of my personal projects and some of my ideas and thoughts on various topics.
 
+<!-------------------- Blog Post ----------------------->
  ## 🗒️ Latest Blog Posts
  - [The impact of database indexing on query execution time](https://maryambit.surge.sh/blogs/the-impact-of-database-indexing-on-query-execution-time)
  - [Build a realtime analytics pipeline for you IoT application using InfluxDB and MQTT](https://maryambit.surge.sh/blogs/build-a-realtime-analytics-pipeline-for-your-iot-application-using-influx-and-mqtt)
@@ -28,90 +32,68 @@ If you're interested in learning more about my work, check out my portfolio at [
 
 
 ##  Tools & Technologies
-#### Languages: 
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
+![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white&color=A359B3)
+<br/>
 
-#### Frontend Frameworks / Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white" />
-  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
-  <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
-</p>
+![](https://img.shields.io/badge/Frontend-Vue_JS-informational?style=flat&logo=vuedotjs&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Frontend-Vite-informational?style=flat&logo=vite&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Frontend-Nuxt_JS-informational?style=flat&logo=nuxtdotjs&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Frontend-React_JS-informational?style=flat&logo=react&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Frontend-Bulma-informational?style=flat&logo=bulma&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Frontend-Chakra_UI-informational?style=flat&logo=chakraui&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Frontend-Daisy_UI-informational?style=flat&logo=daisyui&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Frontend-MUI-informational?style=flat&logo=mui&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Frontend-Quasar-informational?style=flat&logo=quasar&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Frontend-SASS-informational?style=flat&logo=SASS&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Frontend-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Frontend-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Frontend-Rollup_JS-informational?style=flat&logo=rollup.js&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Frontend-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=A359B3)
+<br/>
+<details>
+<summary>More Skills</summary>
+<br>
 
-#### Backend Frameworks / Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+![](https://img.shields.io/badge/Backend-Express_JS-informational?style=flat&logo=express&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Backend-NesT_JS-informational?style=flat&logo=nestjs&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Backend-Node_JS-informational?style=flat&logo=node.js&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Backend-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Backend-Postman-informational?style=flat&logo=postman&logoColor=white&color=A359B3)
+<br/>
 
-#### Databases / ORMs
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
-</p>
+![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Database-InfluxDB-informational?style=flat&logo=InfluxDB&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Database-Prisma-informational?style=flat&logo=Prisma&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Database-Sequelize-informational?style=flat&logo=Sequelize&logoColor=white&color=A359B3)
+<br/>
 
-#### DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+![](https://img.shields.io/badge/DevOps-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/DevOps-Github-informational?style=flat&logo=githubactions&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=A359B3)
+<br/>
 
-#### Deployment
-<p align="left">
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+![](https://img.shields.io/badge/Deployment-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Deployment-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Deployment-Github-informational?style=flat&logo=github&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Deployment-Herouku-informational?style=flat&logo=heroku&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=A359B3)
+<br/>
 
-#### Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
-</p>
+![](https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=A359B3)
+<br/>
 
-#### Mobile Application Development
-<p align="left">
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
-</p>
+![](https://img.shields.io/badge/Mobile-React_Native-informational?style=flat&logo=react&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Mobile-Expo-informational?style=flat&logo=expo&logoColor=white&color=A359B3)
+<br/>
 
-#### Design
-<p align="left">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-
-
-
+![](https://img.shields.io/badge/Figma?style=flat&logo=figma&logoColor=white&color=A359B3)
+</details>
