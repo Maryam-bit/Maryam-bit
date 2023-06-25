@@ -6,7 +6,7 @@ If you're interested in learning more about my work, check out my portfolio at [
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=maryam-bit&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=modern-lilac)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryam-bit)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryam-bit&theme=modern-lilac)](https://github.com/anuraghazra/github-readme-stats)
 
 Let's connect and explore new opportunities to leverage my skills and experience!
 * [Email](noormaryam530@gmail.com)
