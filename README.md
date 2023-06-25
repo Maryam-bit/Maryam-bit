@@ -6,8 +6,8 @@ If you're interested in learning more about my work, check out my portfolio at [
 
 <p align="left"><img align="center" src="https://streak-stats.demolab.com/?user=maryam-bit&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=modern-lilac" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryam-bit&theme=transparent" />
-<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bit&layout=compact&theme=transparent&hide_progress=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=maryam-bit&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bit&layout=compact&theme=transparent&hide_progress=true" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryam-bit&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bit&layout=compact&theme=transparent&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
