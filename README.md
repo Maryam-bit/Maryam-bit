@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-maryam-bit)
+![](https://komarev.com/ghpvc/?username=your-github-maryam-bit) <br />
 <a href="https://www.linkedin.com/in/maryam-noor-/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Maryam%20Noor-blue?logo=linkedin&logoColor=blue&color=blue" />
 </a>
