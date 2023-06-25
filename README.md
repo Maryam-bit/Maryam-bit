@@ -4,6 +4,13 @@ Hello there, I am a full stack Engineer @[Cowlar Design Studio](https://cowlarde
 
 If you're interested in learning more about my work, check out my portfolio at [`https://maryambit.surge.sh`](https://maryambit.surge.sh). There, you'll find a curated selection of my personal projects and some of my ideas and thoughts on various topics.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=maryam-bit&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=modern-lilac" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=maryam-bit&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=modern-lilac)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryam-bit&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
