@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-maryam-bit)
 
 👋 Hello there!
-- 💻 I am a Full Stack Engineer @[Cowlar Design Studio](https://cowlardesignstudio.com/)
-- 📖 Currently exploring DevOps
-- ⁉️ Interested in learning web 3.0
-- check out my portfolio at [`https://maryambit.surge.sh`](https://maryambit.surge.sh). There, you'll find a curated selection of my personal projects and some of my ideas and thoughts on various topics.
+-  I am a Full Stack Engineer @[Cowlar Design Studio](https://cowlardesignstudio.com/)
+-  Currently exploring DevOps
+-  Interested in learning web 3.0
+-  On my free time, I like to write at [`maryambit.surge.sh`](https://maryambit.surge.sh) and building some side projects.
 
 ### 🔥 Github Streak Stats  <br/>
 <p align="left"><img align="center" src="https://streak-stats.demolab.com/?user=maryam-bit&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=github-dark-blue" /></p>
@@ -101,13 +101,11 @@
 </p>
 
 
-## Contact Me
-Let's connect and explore new opportunities to leverage my skills and experience!
-<p align="center">
-  <a href="noormaryam530@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/maryam-noor-/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+![separate](https://github.com/Maryam-bit/Maryam-bit/assets/56764144/c2fdcdf3-cc3a-432d-96e0-603cca9ab4d3)
+
+<a href="https://www.linkedin.com/in/maryam-noor-/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Maryam%20Noor-blue?logo=linkedin&logoColor=blue&color=blue" />
+</a>
+<a href="mailto:noormaryam530@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-Maryam%20Noor-red?logo=gmail&logoColor=red&color=red" />
+</a>
