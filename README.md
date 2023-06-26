@@ -106,7 +106,7 @@ If you're interested in learning more about my work, check out my portfolio at [
 
 <br/>
 
-<!-------------------- Github stast ----------------------->
+<!-------------------- Github stats ----------------------->
 ## &#x1f4c8; Github Stats
 
 <p align="center">
