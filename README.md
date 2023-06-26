@@ -12,8 +12,9 @@
    <img src="https://img.shields.io/badge/Gmail-Address-red?logo=gmail&logoColor=white&color=blue" />
  </a>
 </div>
-<br/>
 
+
+<br/>
 <!-------------------- introduction ----------------------->
  Hello there 👋
 -  I am a Full Stack Engineer @[Cowlar Design Studio](https://cowlardesignstudio.com/)
@@ -23,6 +24,7 @@
 
 If you're interested in learning more about my work, check out my portfolio at [`maryambit.surge.sh`](https://maryambit.surge.sh). There, you'll find a curated selection of my personal projects and some of my ideas and thoughts on various topics.
 
+<br/>
 <!-------------------- Blog Post ----------------------->
  ## 🗒️ Latest Blog Posts
  - [The impact of database indexing on query execution time](https://maryambit.surge.sh/blogs/the-impact-of-database-indexing-on-query-execution-time)
@@ -31,8 +33,9 @@ If you're interested in learning more about my work, check out my portfolio at [
  - [https://maryambit.surge.sh/blogs/unlocking-the-features-of-typescript-5](https://maryambit.surge.sh/blogs/unlocking-the-features-of-typescript-5)
 
 
-
-##  Tools & Technologies
+<br/>
+<!-------------------- Tools and tech ----------------------->
+## 💼 Tools & Technologies
 ![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
@@ -99,6 +102,8 @@ If you're interested in learning more about my work, check out my portfolio at [
 ![](https://img.shields.io/badge/Figma?style=flat&logo=figma&logoColor=white&color=4AB197)
 </details>
 
+<br/>
+<!-------------------- Github stast ----------------------->
 ## Github Stats
 <p align="left"><img align="center" src="https://streak-stats.demolab.com/?user=maryam-bit&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=gotham" /></p>
 <img src="https://github-readme-stats.vercel.app/api?username=maryam-bit&theme=gotham" />
