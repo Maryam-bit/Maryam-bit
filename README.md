@@ -43,7 +43,6 @@ If you're interested in learning more about my work, check out my portfolio at [
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white&color=627dde)
-<br/>
 
 ![](https://img.shields.io/badge/Frontend-Vue_JS-informational?style=flat&logo=vuedotjs&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Frontend-Vite-informational?style=flat&logo=vite&logoColor=white&color=627dde)
@@ -60,17 +59,14 @@ If you're interested in learning more about my work, check out my portfolio at [
 ![](https://img.shields.io/badge/Frontend-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Frontend-Rollup_JS-informational?style=flat&logo=rollup.js&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Frontend-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=627dde)
-<br/>
 <details>
 <summary>More Skills</summary>
-<br/>
 
 ![](https://img.shields.io/badge/Backend-Express_JS-informational?style=flat&logo=express&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Backend-NesT_JS-informational?style=flat&logo=nestjs&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Backend-Node_JS-informational?style=flat&logo=node.js&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Backend-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Backend-Postman-informational?style=flat&logo=postman&logoColor=white&color=627dde)
-<br/>
 
 ![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=627dde)
@@ -79,44 +75,45 @@ If you're interested in learning more about my work, check out my portfolio at [
 ![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Database-Prisma-informational?style=flat&logo=Prisma&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Database-Sequelize-informational?style=flat&logo=Sequelize&logoColor=white&color=627dde)
-<br/>
 
 ![](https://img.shields.io/badge/DevOps-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/DevOps-Github-informational?style=flat&logo=githubactions&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=627dde)
-<br/>
 
 ![](https://img.shields.io/badge/Deployment-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Deployment-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Deployment-Github-informational?style=flat&logo=github&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Deployment-Herouku-informational?style=flat&logo=heroku&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=627dde)
-<br/>
 
 ![](https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=627dde)
-<br/>
 
 ![](https://img.shields.io/badge/Mobile-React_Native-informational?style=flat&logo=react&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Mobile-Expo-informational?style=flat&logo=expo&logoColor=white&color=627dde)
-<br/>
 
-![](https://img.shields.io/badge/Figma?style=flat&logo=figma&logoColor=white&color=627dde)
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=627dde)
 </details>
 
 <br/>
 
 <!-------------------- Github stats ----------------------->
 ## &#x1f4c8; Github Stats
+<div align="center">
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maryam-bit&theme=discord_old_blurple">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maryam-bit&theme=discord_old_blurple">
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maryam-bit&theme=discord_old_blurple">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maryam-bit&theme=discord_old_blurple">
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maryam-bit&theme=discord_old_blurple">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maryam-bit&theme=discord_old_blurple">
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maryam-bit&theme=discord_old_blurple">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maryam-bit&theme=discord_old_blurple">
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maryam-bit&theme=discord_old_blurple&utcOffset=8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maryam-bit&theme=discord_old_blurple&utcOffset=8">
+  </a>
+</div>  
 
-<p align="center">
- <img align="center" style="height: 160px; width: 440px" src="https://streak-stats.demolab.com/?user=maryam-bit&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=discord-old-blurple" />
-</br/>
- <a href="https://github.com/maryam-bit">
-  <img align="center" style="padding-right:10px; height: 200px; width: 385px" src="https://github-readme-stats.vercel.app/api?username=maryam-bit&theme=discord_old_blurple" />
-</a>
-
-<a href="https://github.com/maryam-bit">
-  <img align="center" style="padding-left:10px; height: 200px; width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bit&layout=compact&theme=discord_old_blurple&hide=html"  />
-</a>
-</p>
