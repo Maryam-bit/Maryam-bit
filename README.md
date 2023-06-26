@@ -110,14 +110,14 @@ If you're interested in learning more about my work, check out my portfolio at [
 ## &#x1f4c8; Github Stats
 
 <p align="center">
- <img align="center" style="margin:0.5rem; height: 200px" src="https://streak-stats.demolab.com/?user=maryam-bit&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=discord-old-blurple" />
+ <img align="center" style="height: 200px; width: 500px" src="https://streak-stats.demolab.com/?user=maryam-bit&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=discord-old-blurple" />
 <br/>
  
- <a style="margin-top: 10px" href="https://github.com/maryam-bit">
-  <img align="center" style="margin:0.5rem; height: 200px" src="https://github-readme-stats.vercel.app/api?username=maryam-bit&theme=discord_old_blurple" />
+ <a href="https://github.com/maryam-bit">
+  <img align="center" style="padding-right:10px; height: 200px; width: 385px" src="https://github-readme-stats.vercel.app/api?username=maryam-bit&theme=discord_old_blurple" />
 </a>
 
 <a href="https://github.com/maryam-bit">
-  <img align="center" style="margin:0.5rem; height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bit&layout=compact&theme=discord_old_blurple&hide=html"  />
+  <img align="center" style="padding-left:10px; height: 200px; width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bit&layout=compact&theme=discord_old_blurple&hide=html"  />
 </a>
 </p>
