@@ -1,17 +1,18 @@
-<!-------------------- Banner Image ----------------------->
-<img width="1834"  alt="Make your README" src="https://github.com/Maryam-bit/Maryam-bit/assets/56764144/dc2fb436-7dde-436e-94c7-2844db367318">
-<br/>
+<!-------------------- Banner ----------------------->
+<img width="1834" alt="Make your README (11)" src="https://github.com/Maryam-bit/Maryam-bit/assets/56764144/60b557c4-2443-4984-aebd-e9a197850d06">
+<br/><br/>
 
 <!-------------------- Contact Badges ----------------------->
 <div>
- <img src="https://komarev.com/ghpvc/?username=your-github-maryam-bit" />
+ <img src="https://komarev.com/ghpvc/?username=your-github-maryam-bit&color=blue" />
  <a href="https://www.linkedin.com/in/maryam-noor-/" target="_blank" rel="noopener noreferrer">
-   <img src="https://img.shields.io/badge/LinkedIn-Maryam%20Noor-blue?logo=linkedin&logoColor=blue&color=blue" />
+   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&color=blue" />
  </a>
  <a href="mailto:noormaryam530@gmail.com" target="_blank" rel="noopener noreferrer">
-   <img src="https://img.shields.io/badge/Gmail-Maryam%20Noor-red?logo=gmail&logoColor=red&color=red" />
+   <img src="https://img.shields.io/badge/Gmail-Address-red?logo=gmail&logoColor=white&color=blue" />
  </a>
 </div>
+<br/>
 
 <!-------------------- introduction ----------------------->
  Hello there 👋
@@ -32,73 +33,73 @@ If you're interested in learning more about my work, check out my portfolio at [
 
 
 ##  Tools & Technologies
-![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white&color=4AB197)
 <br/>
 
-![](https://img.shields.io/badge/Frontend-Vue_JS-informational?style=flat&logo=vuedotjs&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Frontend-Vite-informational?style=flat&logo=vite&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Frontend-Nuxt_JS-informational?style=flat&logo=nuxtdotjs&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Frontend-React_JS-informational?style=flat&logo=react&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Frontend-Bulma-informational?style=flat&logo=bulma&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Frontend-Chakra_UI-informational?style=flat&logo=chakraui&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Frontend-Daisy_UI-informational?style=flat&logo=daisyui&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Frontend-MUI-informational?style=flat&logo=mui&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Frontend-Quasar-informational?style=flat&logo=quasar&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Frontend-SASS-informational?style=flat&logo=SASS&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Frontend-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Frontend-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Frontend-Rollup_JS-informational?style=flat&logo=rollup.js&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Frontend-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Frontend-Vue_JS-informational?style=flat&logo=vuedotjs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Frontend-Vite-informational?style=flat&logo=vite&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Frontend-Nuxt_JS-informational?style=flat&logo=nuxtdotjs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Frontend-React_JS-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Frontend-Bulma-informational?style=flat&logo=bulma&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Frontend-Chakra_UI-informational?style=flat&logo=chakraui&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Frontend-Daisy_UI-informational?style=flat&logo=daisyui&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Frontend-MUI-informational?style=flat&logo=mui&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Frontend-Quasar-informational?style=flat&logo=quasar&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Frontend-SASS-informational?style=flat&logo=SASS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Frontend-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Frontend-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Frontend-Rollup_JS-informational?style=flat&logo=rollup.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Frontend-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=4AB197)
 <br/>
 <details>
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Backend-Express_JS-informational?style=flat&logo=express&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Backend-NesT_JS-informational?style=flat&logo=nestjs&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Backend-Node_JS-informational?style=flat&logo=node.js&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Backend-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Backend-Postman-informational?style=flat&logo=postman&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Backend-Express_JS-informational?style=flat&logo=express&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Backend-NesT_JS-informational?style=flat&logo=nestjs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Backend-Node_JS-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Backend-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Backend-Postman-informational?style=flat&logo=postman&logoColor=white&color=4AB197)
 <br/>
 
-![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Database-InfluxDB-informational?style=flat&logo=InfluxDB&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Database-Prisma-informational?style=flat&logo=Prisma&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Database-Sequelize-informational?style=flat&logo=Sequelize&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-InfluxDB-informational?style=flat&logo=InfluxDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-Prisma-informational?style=flat&logo=Prisma&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-Sequelize-informational?style=flat&logo=Sequelize&logoColor=white&color=4AB197)
 <br/>
 
-![](https://img.shields.io/badge/DevOps-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/DevOps-Github-informational?style=flat&logo=githubactions&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/DevOps-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/DevOps-Github-informational?style=flat&logo=githubactions&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 <br/>
 
-![](https://img.shields.io/badge/Deployment-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Deployment-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Deployment-Github-informational?style=flat&logo=github&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Deployment-Herouku-informational?style=flat&logo=heroku&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Deployment-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Deployment-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Deployment-Github-informational?style=flat&logo=github&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Deployment-Herouku-informational?style=flat&logo=heroku&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=4AB197)
 <br/>
 
-![](https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 <br/>
 
-![](https://img.shields.io/badge/Mobile-React_Native-informational?style=flat&logo=react&logoColor=white&color=A359B3)
-![](https://img.shields.io/badge/Mobile-Expo-informational?style=flat&logo=expo&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Mobile-React_Native-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Mobile-Expo-informational?style=flat&logo=expo&logoColor=white&color=4AB197)
 <br/>
 
-![](https://img.shields.io/badge/Figma?style=flat&logo=figma&logoColor=white&color=A359B3)
+![](https://img.shields.io/badge/Figma?style=flat&logo=figma&logoColor=white&color=4AB197)
 </details>
 
 ## Github Stats
-<p align="left"><img align="center" src="https://streak-stats.demolab.com/?user=maryam-bit&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=github-dark-blue" /></p>
-<img src="https://github-readme-stats.vercel.app/api?username=maryam-bit&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bit&layout=compact&theme=github_dark" />
+<p align="left"><img align="center" src="https://streak-stats.demolab.com/?user=maryam-bit&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=gotham" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=maryam-bit&theme=gotham" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bit&layout=compact&theme=gotham" />
