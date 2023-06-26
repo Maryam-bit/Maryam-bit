@@ -107,7 +107,7 @@ If you're interested in learning more about my work, check out my portfolio at [
 <br/>
 
 <!-------------------- Github stast ----------------------->
-## Github Stats
+## &#x1f4c8; Github Stats
 <p align="left"><img align="center" src="https://streak-stats.demolab.com/?user=maryam-bit&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=discord-old-blurple" /></p>
 <img src="https://github-readme-stats.vercel.app/api?username=maryam-bit&theme=discord_old_blurple" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-bit&layout=compact&theme=discord_old_blurple&hide=html" />
