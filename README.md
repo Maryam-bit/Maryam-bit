@@ -13,8 +13,11 @@
  <a href="mailto:noormaryam530@gmail.com" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/badge/Gmail-Address-red?logo=gmail&logoColor=white&color=blue" />
  </a>
- <a href="https://medium.com/@noormaryam530" target="_blank" rel="noopener noreferrer">
+ <a href="https://medium.com/@maryam-bit" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/badge/Medium-Writing-blue?logo=medium&logoColor=white&color=blue" />
+ </a>
+  <a href="[https://medium.com/@maryam-bit](https://www.youtube.com/@maryam-bit)" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/Youtube-Channel-blue?logo=youtube&logoColor=white&color=blue" />
  </a>
  
 </div>
