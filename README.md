@@ -37,6 +37,7 @@ If you're interested in learning more about my work, check out my portfolio at [
 
 <!-------------------- Blog Post ----------------------->
  ## 🗒️ Latest Blog Posts
+ - [Offset vs Cursor-Based Pagination: Choosing the Best Approach](https://medium.com/@maryam-bit/offset-vs-cursor-based-pagination-choosing-the-best-approach-2e93702a118b)
  - [The impact of database indexing on query execution time](https://maryambit.surge.sh/blogs/the-impact-of-database-indexing-on-query-execution-time)
  - [Build a realtime analytics pipeline for you IoT application using InfluxDB and MQTT](https://maryambit.surge.sh/blogs/build-a-realtime-analytics-pipeline-for-your-iot-application-using-influx-and-mqtt)
  - [Why Should I Choose NestJS and Prisma for my Next Project?](https://maryambit.surge.sh/blogs/why-should-i-choose-nestjs-and-prisma-for-my-next-project)
@@ -67,8 +68,6 @@ If you're interested in learning more about my work, check out my portfolio at [
 ![](https://img.shields.io/badge/Frontend-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Frontend-Rollup_JS-informational?style=flat&logo=rollup.js&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Frontend-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=blue)
-<details>
-<summary>More Skills</summary>
 
 ![](https://img.shields.io/badge/Backend-Express_JS-informational?style=flat&logo=express&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Backend-NesT_JS-informational?style=flat&logo=nestjs&logoColor=white&color=blue)
@@ -101,7 +100,7 @@ If you're interested in learning more about my work, check out my portfolio at [
 ![](https://img.shields.io/badge/Mobile-Expo-informational?style=flat&logo=expo&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=blue)
-</details>
+
 
 <br/>
 
