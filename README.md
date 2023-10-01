@@ -68,6 +68,7 @@ If you're interested in learning more about my work, check out my portfolio at [
 ![](https://img.shields.io/badge/Frontend-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Frontend-Rollup_JS-informational?style=flat&logo=rollup.js&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Frontend-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Frontend-Storybook-informational?style=flat&logo=storybook&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Backend-Express_JS-informational?style=flat&logo=express&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Backend-NesT_JS-informational?style=flat&logo=nestjs&logoColor=white&color=blue)
