@@ -64,7 +64,7 @@ If you're interested in learning more about my work, check out my portfolio at [
 ![](https://img.shields.io/badge/Frontend-Daisy_UI-informational?style=flat&logo=daisyui&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Frontend-MUI-informational?style=flat&logo=mui&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Frontend-Quasar-informational?style=flat&logo=quasar&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Frontend-SASS-informational?style=flat&logo=SASS&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Frontend-SCSS-informational?style=flat&logo=SASS&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Frontend-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Frontend-Rollup_JS-informational?style=flat&logo=rollup.js&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Frontend-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=blue)
