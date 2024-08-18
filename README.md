@@ -83,7 +83,7 @@ If you're interested in learning more about my work, check out my portfolio at [
 ![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-Prisma-informational?style=flat&logo=Prisma&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-Sequelize-informational?style=flat&logo=Sequelize&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Database-Sequelize-informational?style=flat&logo=Redis&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=Redis&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/DevOps-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/DevOps-Github-informational?style=flat&logo=githubactions&logoColor=white&color=blue)
@@ -102,6 +102,10 @@ If you're interested in learning more about my work, check out my portfolio at [
 ![](https://img.shields.io/badge/Mobile-Expo-informational?style=flat&logo=expo&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/Messaging-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Messaging-MQTT-informational?style=flat&logo=mqtt&logoColor=white&color=blue)
+
 
 
 <br/>
