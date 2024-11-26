@@ -26,7 +26,7 @@
 
 <!-------------------- introduction ----------------------->
  Hello there 👋
--  I am a Software Engineer @[Cowlar Design Studio](https://cowlardesignstudio.com/)
+-  I am a Software Engineer @[Fastn](https://fastn.ai/)
 -  Currently exploring DevOps
 -  Interested in learning web 3.0
 <br/>
